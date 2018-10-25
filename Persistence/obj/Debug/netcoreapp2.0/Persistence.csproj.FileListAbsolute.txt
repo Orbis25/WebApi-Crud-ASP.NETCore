@@ -1,0 +1,14 @@
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\bin\Debug\netcoreapp2.0\Persistence.runtimeconfig.json
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\bin\Debug\netcoreapp2.0\Persistence.runtimeconfig.dev.json
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\orbis\Documents\Visual Studio 2017\Projects\Api-Crud\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
