@@ -32,6 +32,16 @@ namespace Api_Crud
 
             services.AddTransient<IStudentService, StudentService>();
 
+            //seteamos la dependencia
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowSpecificOrigin", builder =>
+                 builder.AllowAnyHeader()
+                         .AllowAnyMethod()
+                         .AllowAnyOrigin()
+                 );
+            });
+
             services.AddMvc();
         }
 
@@ -42,6 +52,9 @@ namespace Api_Crud
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            //implementamos el cors
+            app.UseCors("AllowSpecificOrigin");
 
             app.UseMvc();
         }
